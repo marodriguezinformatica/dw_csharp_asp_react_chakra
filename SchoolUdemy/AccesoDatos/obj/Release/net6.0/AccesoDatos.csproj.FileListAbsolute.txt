@@ -1,0 +1,14 @@
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\bin\Release\net6.0\AccesoDatos.deps.json
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\bin\Release\net6.0\AccesoDatos.runtimeconfig.json
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\bin\Release\net6.0\AccesoDatos.dll
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\bin\Release\net6.0\AccesoDatos.pdb
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.dll
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\refint\AccesoDatos.dll
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.pdb
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\Miguel\source\repos\SchoolUdemy\AccesoDatos\obj\Release\net6.0\ref\AccesoDatos.dll
